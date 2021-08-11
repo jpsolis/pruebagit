@@ -12,6 +12,9 @@ function App() {
         <p>Prueba de aplicacion en Git</p>
 
         <p>Prueba de cambio de texto, para que me confirmen</p>
+        <p>Prueba de cambio de texto, para que me confirmen</p>
+        <p>Prueba de cambio de texto, para que me confirmen</p>
+        <p>Prueba de cambio de texto, para que me confirmen</p>
         <a
           className="App-link"
           href="https://reactjs.org"
