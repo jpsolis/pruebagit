@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pruebagit/static/css/main.a617e044.chunk.css",
-    "main.js": "/pruebagit/static/js/main.687e18c4.chunk.js",
-    "main.js.map": "/pruebagit/static/js/main.687e18c4.chunk.js.map",
+    "main.js": "/pruebagit/static/js/main.cf2650b0.chunk.js",
+    "main.js.map": "/pruebagit/static/js/main.cf2650b0.chunk.js.map",
     "runtime-main.js": "/pruebagit/static/js/runtime-main.a81c0d14.js",
     "runtime-main.js.map": "/pruebagit/static/js/runtime-main.a81c0d14.js.map",
     "static/js/2.644db4f1.chunk.js": "/pruebagit/static/js/2.644db4f1.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a81c0d14.js",
     "static/js/2.644db4f1.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.687e18c4.chunk.js"
+    "static/js/main.cf2650b0.chunk.js"
   ]
 }
